@@ -1,5 +1,6 @@
 # UI-project-1
 ## project leviathan
+progress update ``stage 1 - problem seek``
 
 ### Latar Balakang
 project User interface ini dibuat karena selain iseng juga keresahan akan susahnya mengantri untuk mendapatkan vaksinasi COVID 19, meskipun sudah di jadwalkan dan menggunakan form online, tetap saja membuat kerumunan yang meresahkan.
