@@ -1,7 +1,10 @@
 # UI-project-1
 ## project leviathan
 progress update 
-```hey, so something unexpected happen, i got a client! yeay. but thing's get a little bit complicated so i have pause this project because i have to do this thing seriously. i'll go back tho this later. chao```
+```
+hey, so something unexpected happen, i got a client! yeay. but thing's get a little bit complicated 
+so i have pause this project because i have to do this thing seriously. i'll go back tho this later. chao
+```
 
 ### Latar Balakang
 project User interface ini dibuat karena selain iseng juga keresahan akan susahnya mengantri untuk mendapatkan vaksinasi COVID 19, meskipun sudah di jadwalkan dan menggunakan form online, tetap saja membuat kerumunan yang meresahkan.
