@@ -29,6 +29,14 @@ dibawah ini adalah **alur kerja** dari project dan durasi dari pengerjaan projec
 
 kedepannya akan ada kemungkinan perbedaan waktu delivery output karena saya sendiri masih megang beberapa tanggung jawab di event dan perlombaan di departement saya. kembali lagi project ini dibuat hanya untuk explorasi UI/UX dan having fun, so chill out ;D, tentunya akan saya usahakan sebaik mungkin mengikuti deadline yang ada!
 
+### Dokumentasi kerja
+```
+Stage 1 : https://drive.google.com/drive/folders/1NdFxtP2aJfKG0OTKxkoH-Ju6YNMeanaA?usp=sharing
+dokumen Gambaran Masalah : https://docs.google.com/document/d/14ogX09fvjY2RR0QlbmnBp_F2iuENhVczuaJS8ZIRTMw/edit?usp=sharing
+
+```
+
+
 ### StoryBoard
 coming soon
 
